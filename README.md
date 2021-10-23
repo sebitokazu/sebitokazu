@@ -7,6 +7,9 @@ Currently working @IbisDev, a rising software factory 🧑‍💻🏭 based in B
 Also, Software Engineering student 🎓 @ITBA
 
 #### More about me 🌐
+
+My online CV --> https://sebitokazu.github.io/my-cv/
+
 <a target="_blank" href="https://www.linkedin.com/in/sebastian-itokazu/">
    <img align="left" alt="LinkdeIN" width="22px" src="https://img.icons8.com/color/96/000000/linkedin.png" />
 </a>

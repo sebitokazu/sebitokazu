@@ -1,14 +1,12 @@
 ### Hi everyone, Seba's here 👋
 
 I'm a software developer with a deep passion in new and hot technologies trends 🚀.  
-Super mega enthusiast about Blockchain dev 🔗 .
+Super mega enthusiast about Blockchain & web3 development 🔗 .
 
 Currently working @IbisDev, a rising software factory 🧑‍💻🏭 based in Buenos Aires, Argentina.  
 Also, Software Engineering student 🎓 @ITBA
 
 #### More about me 🌐
-
-My online CV --> https://sebitokazu.github.io/my-cv/
 
 <a target="_blank" href="https://www.linkedin.com/in/sebastian-itokazu/">
    <img align="left" alt="LinkdeIN" width="22px" src="https://img.icons8.com/color/96/000000/linkedin.png" />

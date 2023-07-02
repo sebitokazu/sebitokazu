@@ -1,10 +1,17 @@
-### Hi everyone, Seba's here 👋
+## Hi everyone, Seba's here 👋
 
-I'm a software developer with a deep passion in new and hot technologies trends 🚀.  
-Super mega enthusiast about Blockchain & web3 development 🔗 .
+I'm a software engineer with a deep passion in hot technologies trends 🚀  
+web3 developer and in-process Smart Contracts auditor 🛡️
+
 
 Currently working @IbisDev, a rising software factory 🧑‍💻🏭 based in Buenos Aires, Argentina.  
 Also, Software Engineering student 🎓 @ITBA
+
+### Preferred tech stack
+- Solidity | NestJS(NodeJS & Typescript) | Spring (Java)
+- AWS | Terraform
+- PostgreSQL | Mongo | DynamoDB
+
 
 #### More about me 🌐
 
